@@ -1,0 +1,25 @@
+{
+  "short_name": "TPJ Website",
+  "name": "Trans-Pacific Journey Corporation Website",
+  "icons": [
+    {
+      "src": "tpj_logo.png",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "tpj_logo.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "tpj_logo.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}

@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2284baef.css",
+    "main.js": "/static/js/main.f01197b2.js",
+    "static/media/1.jpg": "/static/media/1.fca3e018c6e6a76192f1.jpg",
+    "static/media/2.jpg": "/static/media/2.e11eb2e9eed4a664c3d5.jpg",
+    "static/media/4.jpg": "/static/media/4.fbf4848de314f7148d00.jpg",
+    "static/media/tpj_logo.png": "/static/media/tpj_logo.1e4783044ed0145ddadf.png",
+    "static/media/5.jpg": "/static/media/5.a6252d4484309088404d.jpg",
+    "static/media/6.jpg": "/static/media/6.26a21091d21e55788db3.jpg",
+    "static/media/3.jpg": "/static/media/3.f49e5bb540f6945a5ae3.jpg",
+    "index.html": "/index.html",
+    "main.2284baef.css.map": "/static/css/main.2284baef.css.map",
+    "main.f01197b2.js.map": "/static/js/main.f01197b2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2284baef.css",
+    "static/js/main.f01197b2.js"
+  ]
+}
